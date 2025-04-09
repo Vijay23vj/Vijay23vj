@@ -10,6 +10,6 @@ I’m a **Java Full Stack Developer** passionate about building efficient and sc
 🚀 Always learning, problem-solving, and collaborating to build impactful digital solutions.
 
 🔗 **Connect with me:**
-[LinkedIn](www.linkedin.com/in/vijay-kumar-hiremath-634a3b221) | [Email](hvijaykumar51@gmail.com) | [My Portfolio]([your-portfolio-link-here](https://vijay23vj.github.io/My-Portfolio/))
+[LinkedIn](www.linkedin.com/in/vijay-kumar-hiremath-634a3b221) | [Email](hvijaykumar51@gmail.com) | [My Portfolio]([https://vijay23vj.github.io/My-Portfolio/])
 
 📌 Open to exciting opportunities and ready to grow in the tech world!
