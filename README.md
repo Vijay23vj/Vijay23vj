@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Vijay Kumar Hiremath
 
-<!--
-**Vijay23vj/Vijay23vj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Java Full Stack Developer** passionate about building efficient and scalable web applications.
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**
+- Java, Spring Boot
+- HTML, CSS, JavaScript
+- MySQL, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning, problem-solving, and collaborating to build impactful digital solutions.
+
+🔗 **Connect with me:**
+[LinkedIn](www.linkedin.com/in/vijay-kumar-hiremath-634a3b221) | [Email](hvijaykumar51@gmail.com)
+
+📌 Open to exciting opportunities and ready to grow in the tech world!
